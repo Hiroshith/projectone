@@ -2,6 +2,6 @@ class Program2
 {
     public static void main(String[] args)
     {
-        System.out.println("HIROSHITH");
+        System.out.println("HIROSHITH ");
     }
 }
